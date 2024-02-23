@@ -1,16 +1,3 @@
-//****************************************************************************************************
-//     File:               morra.cpp
-// 
-//     Student:            Anna Sargsyan
-// 
-//     Assignment:         Program #9
-// 
-//     Course Name:        Programming I
-// 
-//     Course Number:      COSC 1550-01
-// 
-//     Due:                March 31, 2023
-//
 //     This program selectes numbers for players  randomly, 
 //     then selectes the right answers randomly.
 //     After it output who wins in the game "Morra".
